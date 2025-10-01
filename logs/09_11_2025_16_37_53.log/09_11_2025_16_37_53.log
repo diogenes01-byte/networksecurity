@@ -1,4 +1,0 @@
-[ 2025-09-11 16:37:53,362] 83 root - INFO - Objeto NetworkDataExtract inicializado correctamente.
-[ 2025-09-11 16:37:53,488] 92 root - INFO - [DEBUG] CSV cargado desde Network_Data\phisingData.csv, registros encontrados: 11055
-[ 2025-09-11 16:37:53,488] 103 root - INFO - [DEBUG] Intentando conectar a MongoDB...
-[ 2025-09-11 16:38:07,390] 113 root - INFO - [DEBUG] Se insertaron 11055 documentos en DB: DIOGENESL, Colección: NetworkData
